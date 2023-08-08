@@ -1,1 +1,2 @@
-hello
+let = hello
+console.log(let)
